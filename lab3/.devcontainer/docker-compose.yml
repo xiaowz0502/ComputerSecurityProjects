@@ -1,0 +1,10 @@
+services:
+    mathserver:
+        image: eecs388/mathserver
+        restart: always
+    workspace:
+        build: .
+        volumes:
+            - ..:/workspaces/lab3
+        # Prevent container from instantly exiting, allowing us to attach terminal
+        command: /bin/sh -c "sleep infinity"
