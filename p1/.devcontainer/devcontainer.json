@@ -1,0 +1,13 @@
+{
+    "name": "EECS 388 Project 1",
+    "dockerFile": "Dockerfile",
+    "remoteUser": "eecs388",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "ms-python.python"
+            ]
+        }
+    }
+}

@@ -1,0 +1,198 @@
+cur plaintext: 0e
+pad_len: 14
+in_mac: round: 5 , byte: 14 , i: 83
+cur plaintext: 0e0e
+in_mac: round: 5 , byte: 13 , i: 34
+cur plaintext: 0e0e0e
+in_mac: round: 5 , byte: 12 , i: 139
+cur plaintext: 0e0e0e0e
+in_mac: round: 5 , byte: 11 , i: 70
+cur plaintext: 0e0e0e0e0e
+in_mac: round: 5 , byte: 10 , i: 40
+cur plaintext: 0e0e0e0e0e0e
+in_mac: round: 5 , byte: 9 , i: 111
+cur plaintext: 0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 8 , i: 234
+cur plaintext: 0e0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 7 , i: 255
+cur plaintext: 0e0e0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 6 , i: 143
+cur plaintext: 0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 5 , i: 205
+cur plaintext: 0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 4 , i: 251
+cur plaintext: 0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 3 , i: 68
+cur plaintext: 0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 2 , i: 229
+cur plaintext: 0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 1 , i: 114
+cur plaintext: ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 5 , byte: 0 , i: 228
+cur plaintext: c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+round:  4
+in_mac: round: 4 , byte: 15 , i: 157
+cur plaintext: a9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 14 , i: 147
+cur plaintext: 6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 13 , i: 131
+cur plaintext: 6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 12 , i: 65
+cur plaintext: ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 11 , i: 210
+cur plaintext: f3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 10 , i: 96
+cur plaintext: 8df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 9 , i: 159
+cur plaintext: a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 8 , i: 20
+cur plaintext: 90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 7 , i: 152
+cur plaintext: 5c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 6 , i: 23
+cur plaintext: 345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 5 , i: 226
+cur plaintext: de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 4 , i: 43
+cur plaintext: 44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 3 , i: 80
+cur plaintext: eb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 2 , i: 20
+cur plaintext: eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 1 , i: 247
+cur plaintext: 41eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 4 , byte: 0 , i: 128
+cur plaintext: 1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+round:  3
+in_mac: round: 3 , byte: 15 , i: 143
+cur plaintext: 7b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 14 , i: 26
+cur plaintext: d77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 13 , i: 139
+cur plaintext: bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 12 , i: 163
+cur plaintext: 05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 11 , i: 166
+cur plaintext: 3d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 10 , i: 21
+cur plaintext: d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 9 , i: 68
+cur plaintext: 18d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 8 , i: 203
+cur plaintext: 0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 7 , i: 224
+cur plaintext: 3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 6 , i: 159
+cur plaintext: 4b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 5 , i: 164
+cur plaintext: 084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 4 , i: 223
+cur plaintext: e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 3 , i: 137
+cur plaintext: 19e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 2 , i: 106
+cur plaintext: c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 1 , i: 9
+cur plaintext: 21c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 3 , byte: 0 , i: 140
+cur plaintext: 6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+round:  2
+in_mac: round: 2 , byte: 15 , i: 45
+cur plaintext: 6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 14 , i: 19
+cur plaintext: 6f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 13 , i: 2
+cur plaintext: 736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 12 , i: 190
+cur plaintext: 65736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 11 , i: 150
+cur plaintext: 7765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 10 , i: 251
+cur plaintext: 617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 9 , i: 190
+cur plaintext: 20617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 8 , i: 26
+cur plaintext: 6520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 7 , i: 207
+cur plaintext: 726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 6 , i: 60
+cur plaintext: 27726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 5 , i: 65
+cur plaintext: 7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 4 , i: 150
+cur plaintext: 6f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 3 , i: 59
+cur plaintext: 796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 2 , i: 82
+cur plaintext: 20796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 1 , i: 27
+cur plaintext: 2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 2 , byte: 0 , i: 220
+cur plaintext: 6f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+round:  1
+in_mac: round: 1 , byte: 15 , i: 162
+cur plaintext: 676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 14 , i: 196
+cur plaintext: 20676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 13 , i: 160
+cur plaintext: 7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 12 , i: 212
+cur plaintext: 6f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 11 , i: 98
+cur plaintext: 796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 10 , i: 247
+cur plaintext: 20796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 9 , i: 21
+cur plaintext: 7420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 8 , i: 103
+cur plaintext: 617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 7 , i: 197
+cur plaintext: 20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 6 , i: 65
+cur plaintext: 6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 5 , i: 213
+cur plaintext: 6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 4 , i: 247
+cur plaintext: 6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 3 , i: 22
+cur plaintext: 6c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 2 , i: 170
+cur plaintext: 206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 1 , i: 253
+cur plaintext: 2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 1 , byte: 0 , i: 119
+cur plaintext: 6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+round:  0
+in_mac: round: 0 , byte: 15 , i: 246
+cur plaintext: 6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 14 , i: 15
+cur plaintext: 6c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 13 , i: 199
+cur plaintext: 656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 12 , i: 174
+cur plaintext: 68656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 11 , i: 195
+cur plaintext: 2068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 10 , i: 134
+cur plaintext: 732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 9 , i: 83
+cur plaintext: 79732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 8 , i: 48
+cur plaintext: 6179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 7 , i: 47
+cur plaintext: 736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 6 , i: 109
+cur plaintext: 20736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 5 , i: 48
+cur plaintext: 6e20736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 4 , i: 53
+cur plaintext: 6f6e20736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 3 , i: 189
+cur plaintext: 736f6e20736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 2 , i: 205
+cur plaintext: 72736f6e20736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 1 , i: 169
+cur plaintext: 6172736f6e20736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+in_mac: round: 0 , byte: 0 , i: 43
+cur plaintext: 636172736f6e20736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
+58c7b1c356554755592df3e6c2a1619b636172736f6e20736179732068656c6c6f2e206c6f6f6b20617420796f7520676f2120796f7527726520617765736f6d6521c519e8084b3e0318d53d05bed77b1041eaeb44de345c90a28df3ab6d6fa9c4ad0e0e0e0e0e0e0e0e0e0e0e0e0e0e
